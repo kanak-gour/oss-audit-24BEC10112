@@ -43,5 +43,5 @@ To run the scripts included in this project:
 3. Give execution permissions: chmod +x *.sh
 4. Run a script: ./system_identity.sh
 
-## ⚖️ License
+##  License
 This project is part of an academic audit. [cite_start]The software being audited retains its original license (e.g., GPL v2, Apache 2.0)[cite: 24].
